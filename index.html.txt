@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="english">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal card </title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <h1>
+        INFORMATION ABOUT  Zafar
+    </h1>
+     <p> <b>My full names is Rajabboyev Zafarbek and I am study the Freshman student of Inha university </b> </p> 
+     <hr>
+     <h2>
+        I am currently studying in the first semester
+     </h2>
+     <ul>
+        <li> InIt = Introduction InIt</li>
+        <li> AE1 = Academic English 1</li>
+        <li> AER1 = Academic English Reading 1</li>
+        <li> C1 = Calculus 1</li>
+        <li> P1 = Physics 1</li>
+        <li> OOP1 = Object Orineted Programming 1</li>
+        <li> NI = National Identity </li>
+     </ul>
+
+     <h3> Activities </h3>
+      <ul>
+        <li>Playing chess</li>
+        <ol>
+           <b> Favourite players: </b>
+            <li> Magnus Carlsen </li>
+            <li> Fabiano Karuana</li>
+            <li> Nodirbek Abdusattarov</li>
+        </ol>
+      </ul>
+      
+      <ul>
+        <li> Watching Movies </li>
+        <ol>
+            <b> Favourite Movies </b>
+            <li> Interseller <a  href="https://www.justwatch.com/us/movie/interstellar"> watch here online </a>  </li>
+            <li> Dune<a href="https://www.justwatch.com/au/movie/american-psycho"> watch here online </a> </li>
+            <li> Angry Man <a href="https://www.justwatch.com/us/movie/the-hobbit-an-unexpected-journey"> watch here online </a> </li>
+        </ol>
+      </ul>
+        <ul> 
+      <li> Playing Computer Games  </li>
+      <ol>
+            <b>Interesting Games</b>
+            <li> Special Forces group 2  (Black Ops) <a href="https://itorrents-igruha.org/934-call-of-duty-black-ops-2-2.html"> download from this link > </a></li>
+            <li> Pubg Mobile <a href="https://itorrents-igruha.org/194-03-pes-2016-repack-ot-r.g.-catalyst.html"> download from this link </a></li>
+            <li> Dota <a href="https://itorrents-igruha.org/15099-679780089.html"> download form this link </a></li>
+        </ol>
+      </ul>
+
+      <h2> MY MOOD </h2>
+      <img src="emodji.jpg" height="300px"; padding-right:"20px";>
+      <img src="emodji.jpg" height="300px" width="600px" >
+
+      <h2>Information ABOUT MY NEARBY NEIGHBOURS</h2>
+      <ul>
+        <li> Sharipov Jonibek : Young of cpp,  "Calculus hero" at universty Inha  </li> Rustam Zokirov
+        <li>  : Recently enter working of Google company ( Munich )  student of Inha university  </li>
+      </ul>
+
+    
+    
+</body>
+</html>
